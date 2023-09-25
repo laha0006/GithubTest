@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Git init!");
         System.out.println("Start of something Great.");
         System.out.println("I WILL SURVIVE.");
+        System.out.println("Error 404");
     }
 }
